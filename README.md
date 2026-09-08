@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="refresh" content="0;url=https://play.google.com/store/apps/details?id=com.io.hats_31">
+    <title>Prueba NFC</title>
 </head>
 <body>
+    <h1>¡FUNCIONA!</h1>
+    <p>GitHub está mostrando correctamente esta página.</p>
 </body>
 </html>
